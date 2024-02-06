@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13beed69_e38b6173",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2024-02-06T05:22:28Z",
+      "side": 1,
+      "message": "why do you need another repo when vendor/xiaomi/camera exists??",
+      "revId": "cb01bee8b79e0da20242334b61445b282f6159a0",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
